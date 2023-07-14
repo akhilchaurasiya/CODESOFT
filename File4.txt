@@ -1,0 +1,5 @@
+Robotics is an interdisciplinary branch of Electronics & Communication, computer science and engineering.
+ Robotics involves the design, construction, operation, and use of robots. The goal of robotics is to design
+ machines that can help and assist humans. Robotics integrates fields of mechanical engineering, electrical engineering,
+ information engineering, mechatronics engineering, electronics, biomedical engineering, computer engineering, control 
+systems engineering, software engineering, mathematics, etc.
